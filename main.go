@@ -8,5 +8,5 @@ func main() {
   // hand, remainingCards := deal(cards, 7)
 
   // hand.print()
-  // remainingCards.saveToFile("remaining_cards.sav")
+  // remainingCards.saveDeck("remaining_cards.sav")
 }
